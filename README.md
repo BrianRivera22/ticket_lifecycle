@@ -35,7 +35,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://github.com/BrianRivera22/ticket_lifecycle/blob/main/osTicket%20-%20Ticket%20Lifecycle/1.png"/>
 </p>
 <p>
-Begin by entering http://localhost/osTicket into the browser. This will bring us to the end user ticket creation page. Here we can submit a ticket as Karen. After the ticket is submitted, log in at http://localhost/osTicket/scp/login.php as agent John Doe.
+Begin by entering http://localhost/osTicket into the browser. This will bring us to the end user ticket creation page. Here we can submit a ticket as Karen Kay. After the ticket is submitted, log in at http://localhost/osTicket/scp/login.php as agent John Doe.
 </p>
 <br />
 
